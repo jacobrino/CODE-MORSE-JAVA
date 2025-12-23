@@ -1,0 +1,7 @@
+# Fichier de sortie Java après compilation
+bin/
+*.class
+
+# Logs
+*.log
+
