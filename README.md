@@ -3,7 +3,8 @@ Code Morse – Java
 
 Description
 -----------
-Projet personnel durant L1, développé en Java permettant de manipuler le code Morse
+Projet personnel durant L1, développé en Java(swing) en 2019, puis archivé et publié
+sur GitHub en Décembre 2025 dans le cadre d’un portfolio académique permettant de manipuler le code Morse
 (encodage et décodage de messages).
 
 Ce projet a été réalisé dans un cadre d’apprentissage afin de mettre en
@@ -53,10 +54,3 @@ Des captures d’écran illustrant la compilation, l’exécution et les résult
 du programme sont disponibles dans le dossier :
 
 docs/images/
-
-Remarques
----------
-- Le projet a été initialement développé avec Eclipse en 2021, puis archivé et publié
-  sur GitHub en Décembre 2025 dans le cadre d’un portfolio académique.
-- Le code est volontairement simple et lisible afin de mettre en avant la
-  compréhension des concepts fondamentaux de Java.
