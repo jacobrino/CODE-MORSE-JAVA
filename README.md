@@ -11,6 +11,8 @@ Ce projet a été réalisé dans un cadre d’apprentissage afin de mettre en
 pratique les bases du langage Java, la structuration d’un projet, ainsi que
 la compilation et l’exécution en ligne de commande.
 
+![extrait](docs/resultat.png)
+
 Environnement de développement
 ------------------------------
 Le projet a été développé en Java à l’aide de l’IDE Eclipse.
